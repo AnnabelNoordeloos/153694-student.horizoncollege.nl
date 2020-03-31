@@ -1,0 +1,139 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial;
+}
+
+nav {
+    position: relative;
+    z-index: 2;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    transition: 1s;
+}
+
+li a:hover {
+    background: white;
+    color: black;
+}
+
+li {
+    float: right;
+}
+
+.title {
+    text-align: center;
+    margin-top: 200px;
+    font-size: 30px;
+    position: relative;
+    z-index: 2;
+}
+
+.des {
+    text-align: center;
+    margin-top: 80px;
+    position: relative;
+    z-index: 2;
+}
+
+.prdctlines {
+    text-decoration: none;
+    font-size: 25px;
+    color: #bb0000;
+    margin-left: 87vh;
+    transition: 1s;
+    padding: 20px 12px;
+    position: absolute;
+    top: 80vh;
+}
+
+.prdctlines:hover {
+    background: #bb0000;
+    color: white;
+}
+
+.fa-cart {
+    background: white;
+    color: #bb0000;
+}
+
+#footje {
+    background: #333;
+    height: 200px;
+    width: 100%;
+    position: absolute;
+    top: 600px;
+}
+
+#door {
+    color: white;
+    text-align: center;
+    margin-top: 100px;
+}
+
+#decoration {
+    position: relative;
+}
+
+#bol1 {
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    background: #bb0000;
+
+}
+
+#bol2 {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background: #e00000;
+    margin-top: -400px;
+    margin-left: 200px;
+}
+
+#bol3 {
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+    background: #870000;
+    margin-top: 0px;
+    margin-left: 700px;
+}
+
+#bol4 {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background: #ec0000;
+    margin-top: 0px;
+    margin-left: 700px;
+}
+
+#bol5 {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background: #bf0000;
+    margin-top: -500px;
+    margin-left: 1000px;
+}
+
+/* section productlines */
+
+/* section products */

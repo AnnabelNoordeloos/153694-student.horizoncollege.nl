@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial;
+}
+
+/*.productlines li a {*/
+/*    color: black;*/
+/*    text-align: center;*/
+/*    padding: 14px 16px;*/
+/*    text-decoration: none;*/
+/*    transition: 1s;*/
+/*    display: block;*/
+/*    width: 200px;*/
+/*    margin-left: 85vh;*/
+/*}*/
+
+/*.productlines li a:hover {*/
+/*    color: white;*/
+/*    background: #bb0000;*/
+
+/*}*/
+
+.navigatiebar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+.navigatiebar li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    transition: 1s;
+}
+
+nav {
+    position: relative;
+    z-index: 2;
+}
+
+.navigatiebar li {
+    float: right;
+}
+
+.navigatiebar li a:hover {
+    background: white;
+    color: black;
+}
+
+.list-group{
+    text-align: center;
+    margin-top: 20px;
+}
