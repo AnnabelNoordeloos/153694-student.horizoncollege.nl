@@ -63,10 +63,5 @@ echo "</tbody>";
 echo "</table>";
 ?>
 
-<style>
-    .data {
-        border: 1px solid black;
-    }
-</style>
 
 

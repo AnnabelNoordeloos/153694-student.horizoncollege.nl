@@ -15,7 +15,7 @@
         <ul class ="navigatiebar">
             <li><a href="http://localhost/backend/webshopAutos/employees/index.php">Employees</a></li>
             <li><a href="http://localhost/backend/webshopAutos/offices/index.php">Offices</a></li>
-            <li><a href="#">Orders</a></li>
+            <li><a href="http://localhost/backend/webshopAutos/Orders/index.php">Orders</a></li>
             <li><a href="#">Shopping cart</a></li>
             <li><a href="http://localhost/backend/webshopAutos/products">ProductLines</a></li>
             <li><a href="http://localhost/backend/webshopAutos/">Home</a></li>

@@ -33,7 +33,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1XcVMsZVHqlRUUsA609j1CYfyG3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -44,6 +48,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -98,6 +104,8 @@
       <workItem from="1583220877763" duration="5415000" />
       <workItem from="1583761726068" duration="5844000" />
       <workItem from="1583825657525" duration="5390000" />
+      <workItem from="1587149887880" duration="210000" />
+      <workItem from="1587150359351" duration="2831000" />
     </task>
     <servers />
   </component>
@@ -117,18 +125,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="95" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1582291920341" />
-    <state x="511" y="272" key="NewPhpFileDialog" timestamp="1583765276809">
+    <state x="511" y="272" key="NewPhpFileDialog" timestamp="1587150067359">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="511" y="272" key="NewPhpFileDialog/0.0.1280.680@0.0.1280.680" timestamp="1583765276809" />
+    <state x="511" y="272" key="NewPhpFileDialog/0.0.1280.680@0.0.1280.680" timestamp="1587150067359" />
     <state x="144" y="9" key="SettingsEditor" timestamp="1582275962378">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="144" y="9" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1582275962378" />
-    <state x="349" y="170" key="com.intellij.ide.util.TipDialog" timestamp="1583825664123">
+    <state x="349" y="170" key="com.intellij.ide.util.TipDialog" timestamp="1587149888598">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="349" y="170" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1583825664123" />
+    <state x="349" y="170" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1587149888598" />
+    <state x="91" y="0" key="new project wizard" timestamp="1587149969690">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="91" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1587149969690" />
     <state x="297" y="151" key="run.anything.popup" timestamp="1582556963450">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
