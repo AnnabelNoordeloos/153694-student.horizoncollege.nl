@@ -1,0 +1,26 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Spicin up your Board</h1>
+    <!--Home pagina foto toegevoegd o.1-->
+    <img src="./img/2021-04-07 (2).png" width="1000" height="500" class="HomeImage"/>
+    <p>Smoothboard Stylers</p>
+</div>
+ @await Component.InvokeAsync("Filialen")
+
+<!--style toegevoegd voor de Spicin up your board tekst w.3-->
+<style>
+    .display-4 {
+        position: absolute;
+        transform: rotate( 30deg );
+        margin-top: 300px;
+        margin-left: 300px;
+        font-weight: 400;
+    }
+
+    .HomeImage{
+        z-index: -1;
+    }
+</style>
